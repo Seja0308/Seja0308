@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Sejal Marawade 👋
+🎓 Final Year B.Tech Information Technology @ Usha Mittal Institute of Technology, Mumbai
+💻 I build web apps and enjoy solving real-world problems through code
+🚀 Currently seeking SDE / Software Developer roles (2025 Fresher)
+📫 Reach me: LinkedIn
 
-<!--
-**Seja0308/Seja0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Languages
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Frameworks & Libraries
+Show Image
+Show Image
+Databases
+Show Image
 
-Here are some ideas to get you started:
+🚀 Featured Projects
+💸 Expense Splitter Web App
+A FinTech web app that simplifies group expense management. Add participants, record shared costs, and instantly see who owes whom. Features real-time balance calculations, expense charts, settlement summaries, and PDF export.
+HTML CSS JavaScript Chart.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+Show Image
+Show Image
+
+📬 Connect with me
+Show Image
+Show Image
